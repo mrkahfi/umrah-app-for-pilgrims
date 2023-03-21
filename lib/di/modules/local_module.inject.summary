@@ -1,0 +1,172 @@
+{
+  "asset": "asset:app_jamaah_boilerplate/lib/di/modules/local_module.dart",
+  "summary": {
+    "injector": [],
+    "module": [
+      {
+        "name": "LocalModule",
+        "providers": [
+          {
+            "name": "provideDio",
+            "kind": "method",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:dio/lib/src/dio.dart#Dio",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": true,
+            "asynchronous": false,
+            "dependencies": [
+              {
+                "lookupKey": {
+                  "root": "asset:app_jamaah_boilerplate/lib/data/sharedpref/shared_preference_helper.dart#SharedPreferenceHelper",
+                  "qualifier": null
+                },
+                "isProvider": false
+              }
+            ]
+          },
+          {
+            "name": "provideDioClient",
+            "kind": "method",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:app_jamaah_boilerplate/lib/data/network/dio_client.dart#DioClient",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": true,
+            "asynchronous": false,
+            "dependencies": [
+              {
+                "lookupKey": {
+                  "root": "asset:dio/lib/src/dio.dart#Dio",
+                  "qualifier": null
+                },
+                "isProvider": false
+              }
+            ]
+          },
+          {
+            "name": "provideListingApi",
+            "kind": "method",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:app_jamaah_boilerplate/lib/data/network/apis/base_api.dart#BaseApi",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": true,
+            "asynchronous": false,
+            "dependencies": [
+              {
+                "lookupKey": {
+                  "root": "asset:app_jamaah_boilerplate/lib/data/network/dio_client.dart#DioClient",
+                  "qualifier": null
+                },
+                "isProvider": false
+              }
+            ]
+          },
+          {
+            "name": "provideSharedPreferences",
+            "kind": "method",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:shared_preferences/lib/shared_preferences.dart#SharedPreferences",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": true,
+            "asynchronous": true,
+            "dependencies": []
+          },
+          {
+            "name": "provideSharedPreferenceHelper",
+            "kind": "method",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:app_jamaah_boilerplate/lib/data/sharedpref/shared_preference_helper.dart#SharedPreferenceHelper",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": true,
+            "asynchronous": false,
+            "dependencies": []
+          },
+          {
+            "name": "provideDatabase",
+            "kind": "method",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:sembast/lib/src/api/v2/database.dart#Database",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": true,
+            "asynchronous": true,
+            "dependencies": []
+          },
+          {
+            "name": "provideUserDataSource",
+            "kind": "method",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:app_jamaah_boilerplate/lib/data/local/datasources/user_datasource.dart#UserDataSource",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": true,
+            "asynchronous": false,
+            "dependencies": []
+          },
+          {
+            "name": "provideRepository",
+            "kind": "method",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:app_jamaah_boilerplate/lib/data/repository.dart#Repository",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": true,
+            "asynchronous": false,
+            "dependencies": [
+              {
+                "lookupKey": {
+                  "root": "asset:app_jamaah_boilerplate/lib/data/network/apis/base_api.dart#BaseApi",
+                  "qualifier": null
+                },
+                "isProvider": false
+              },
+              {
+                "lookupKey": {
+                  "root": "asset:app_jamaah_boilerplate/lib/data/sharedpref/shared_preference_helper.dart#SharedPreferenceHelper",
+                  "qualifier": null
+                },
+                "isProvider": false
+              },
+              {
+                "lookupKey": {
+                  "root": "asset:app_jamaah_boilerplate/lib/data/local/datasources/user_datasource.dart#UserDataSource",
+                  "qualifier": null
+                },
+                "isProvider": false
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "injectable": []
+  }
+}

@@ -1,0 +1,94 @@
+def localProperties = new Properties()
+def localPropertiesFile = rootProject.file('local.properties')
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.withReader('UTF-8') { reader ->
+        localProperties.load(reader)
+    }
+}
+
+def flutterRoot = localProperties.getProperty('flutter.sdk')
+if (flutterRoot == null) {
+    throw new GradleException("Flutter SDK not found. Define location with flutter.sdk in the local.properties file.")
+}
+
+def flutterVersionCode = localProperties.getProperty('flutter.versionCode')
+if (flutterVersionCode == null) {
+    flutterVersionCode = '1'
+}
+
+def flutterVersionName = localProperties.getProperty('flutter.versionName')
+if (flutterVersionName == null) {
+    flutterVersionName = '1.0'
+}
+
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-platform-android'
+apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+
+android {
+    compileSdkVersion 30
+
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+
+    defaultConfig {
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        applicationId "com.example.app_jamaah_boilerplate"
+        minSdkVersion 21
+        targetSdkVersion 30
+        versionCode flutterVersionCode.toInteger()
+        versionName flutterVersionName
+    }
+
+//    flavorDimensions "mode"
+//    productFlavors {
+//        sandbox {
+//            dimension = "mode"
+//            applicationId "com.example.app_jamaah_boilerplate"
+////            resValue "string", "app_name", "jamaah SandBox"
+//            buildConfigField "String", "MERCHANT_BASE_URL", "\"https://kiostr.herokuapp.com/index.php/\""
+//            buildConfigField "String", "MERCHANT_CLIENT_KEY", "\"SB-Mid-client-sQRKcfPK-sHoyZtf\""
+//        }
+
+//        production {
+//            dimension = "mode"
+//            resValue "string", "app_name", "jamaah Production"
+//            applicationId "com.example.app_jamaah_boilerplate"
+//            buildConfigField "String", "MERCHANT_BASE_URL", "\"https://merchant-url-production.com/\""
+//            buildConfigField "String", "MERCHANT_CLIENT_KEY", "\"Mid-client-Yh2gXx87gGdcr4oT\""
+//        }
+//    }
+
+    buildTypes {
+        release {
+            // TODO: Add your own signing config for the release build.
+            // Signing with the debug keys for now, so `flutter run --release` works.
+            signingConfig signingConfigs.debug
+        }
+    }
+}
+
+flutter {
+    source '../..'
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    implementation 'com.afollestad.material-dialogs:core:0.9.6.0'
+    // For using the Midtrans Sandbox
+    implementation 'com.midtrans:uikit:1.24.1-SANDBOX' // change the number to the latest version
+//    implementation 'com.midtrans:uikit:1.24.1'
+}
+
+apply plugin: 'com.google.gms.google-services'

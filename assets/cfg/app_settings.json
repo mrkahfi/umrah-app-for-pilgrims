@@ -1,0 +1,16 @@
+{
+    "url_prod"  : "demo.muslimpergi.com",
+    "_comment": "ubah di sini url_prod",
+    "url_travel_logo" : "https://storage.googleapis.com/muslimpergi/uploads/site/logo/1/medium_Logo_Baru_UMI.png",
+    "app_name" : "MP Jamaah Demo",
+    "fcm_legacy_key": "AAAAn5tMbYU:APA91bF3XPbdcYjA4IUFCnE46l3qSm7G42vTH6Zz0vvfVKDDRMwbsaLAyY-sOM-Eqx7_2gvPgiXV0VOHO23UQaEOtF21PYwuo-MGFhoBHKUn7IVbKDaVazp_rWCMYJyXbCIa24heoZD_",
+    "bacaan_start_tawaf" : "<p>Khusus untuk laki-laki, mulai lakukan <b><i>Idhthiba,</i></b> yaitu membuka bahu sebelah kanan <br/><br/>بِسْمِ اللهِ اللهُ أَكْبَر <br/><br/><i>Bismilllaahi wallaahu akbar</i>\n  <br/><br/>\nArtinya: <i>“Dengan nama Allah. Allah yang maha besar”</i>.       <br/>       </p>",
+    "bacaan_tawaf_sudah_dimulai" : "<p>Tidak ada zikir atau doa khusus dalam sunnah. Anda dapat membaca zikir dan memperbanyak doa apa pun yang Anda kehendaki.\n        </p>",
+    "bacaan_hajar_aswad" : "<p>\nDisunnahkan untuk mencium Hajar Aswad atau mengusapnya jika memungkinkan (tidak menganggu orang lain). Jika tidak, maka cukup memberi isyarat tangan ke arah Hajar Aswad, sembari membaca\n<br/>      <br/> بِسْمِ اللهِ اللهُ أَكْبَر,اللهم اجعله حجاً مبرورا وذنبا مغفوراً وسعيا مشكور       <br/> <i>Bismilllaahi Wallaahu akbar, Allahummaj’alhu hajjan mabruuroo wadzanban maghfuuroo wasa’yan masykuuroo</i>      <br/><br/> Artinya:<br/>”Ya Allah, jadikanlah hajiku ini haji yang mabrur, dosaku diampuni, dan sa’iku dihargai        </p>",
+    "bacaan_rukun_yamani" : "<p> رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي اْلآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ<br/><i>Robbanaa aatinaa fid-dunyaa hasanah, wa fil aakhiroti hasanah, wa qinaa adzaaban-naar.</i><br/><br/>Artinya: <i>Wahai Tuhan kami, berilah kami kebaikan di dunia, kebaikan di akhirat dan lindungilah kami dari adzab neraka.</i></p>",
+    "doa_mulai" : "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ – أبْدَأُ بِمَا بَدَأَ اللهُ بِهِ\nِ",
+    "doa_mulai_trans_id" : "<i>Innas shofaa wal marwata min sya'aa-irillaah<br>\nAbda-u bimaa bada-allahu bih<br></i>",
+    "doa" : "إلله أَكْبَرُ الله أَكْبَرُ الله أَكْبَر\nُلَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِيْ وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيءٍ قَدِيرٌ لا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ أَنْجَزَ وَعْدَهُ وَنَصَرَ عَبْدَهُ وَهَزَمَ الأَحْزَابَ وَحْدَهُ\n",
+    "doa_trans_id" : "<br/><i>Allahu Akbar 3 kali.<br>\nLaa ilaaha illallaahu wallaahu wahdah, laa syariika lah. Lahul mulku walahul hamdu yuhyii wa yumiitu wahuwa 'alaa kulli syai-in qodiir.<br>\nLaa syariika lah, anjaza wa'dah, wanashoro 'abdah, wahazamal ahzaaba wahdah</i><br/><br/>\nKemudian berdoa sesuai yang dikehendaki<br/><br/>Kemudian ulangi zikir di atas dan kemudian berdoa sesuai yang dikehendaki setelahnya. Ulangi sebanyak 3 kali.<br/><br/>",
+    "doa_default" : "Zikir, doa, atau membaca Al Quran."
+  }

@@ -1,0 +1,47 @@
+{
+  "asset": "asset:app_jamaah_boilerplate/lib/di/components/app_components.dart",
+  "summary": {
+    "injector": [
+      {
+        "name": "AppComponent",
+        "providers": [
+          {
+            "name": "app",
+            "kind": "getter",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:app_jamaah_boilerplate/lib/main.dart#MyApp",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": false,
+            "asynchronous": false,
+            "dependencies": []
+          },
+          {
+            "name": "getRepository",
+            "kind": "method",
+            "injectedType": {
+              "lookupKey": {
+                "root": "asset:app_jamaah_boilerplate/lib/data/repository.dart#Repository",
+                "qualifier": null
+              },
+              "isProvider": false
+            },
+            "singleton": false,
+            "asynchronous": false,
+            "dependencies": []
+          }
+        ],
+        "modules": [
+          "asset:app_jamaah_boilerplate/lib/di/modules/network_module.dart#NetworkModule",
+          "asset:app_jamaah_boilerplate/lib/di/modules/local_module.dart#LocalModule",
+          "asset:app_jamaah_boilerplate/lib/di/modules/preference_module.dart#PreferenceModule"
+        ]
+      }
+    ],
+    "module": [],
+    "injectable": []
+  }
+}

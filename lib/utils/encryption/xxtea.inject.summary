@@ -1,0 +1,8 @@
+{
+  "asset": "asset:app_jamaah_boilerplate/lib/utils/encryption/xxtea.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

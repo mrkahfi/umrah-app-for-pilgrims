@@ -1,0 +1,8 @@
+{
+  "asset": "asset:app_jamaah_boilerplate/lib/stores/user/user_store.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "project_info": {
+    "project_number": "685505277317",
+    "firebase_url": "https://muslimpergi-umi.firebaseio.com",
+    "project_id": "muslimpergi-umi",
+    "storage_bucket": "muslimpergi-umi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:5f5fe53035398e3d",
+        "android_client_info": {
+          "package_name": "com.example.app_jamaah_boilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:b6d3469e85c99bbbf0a8ec",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.alif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:31e68bec171cb78e",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.anciptawisata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:6b466f71788bc10e",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:e7dc3c5da41604e9f0a8ec",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.batik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:007dc23798f37460f0a8ec",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.bawazier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:4c89a59782fbd515f0a8ec",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.family"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:757c2b6eb13b7d09",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.hajaraswad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:a76e45a630ad39faf0a8ec",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.marco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:0936c3ec1e457716",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.munatour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:80a7ebb4cc424413f0a8ec",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.namira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:9301159f828d1ca5",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.safir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:80e19b93db381bd6",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.sahara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:7e75623b8ed47ab2f0a8ec",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.synergyindowisata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:5b2e4c336f3c6921",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.umi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-gkqe5t3naueds5i5fue45rptraf1s65q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muslimpergi.umi",
+            "certificate_hash": "f420a431c9222cabf6701ae2eeedf500e1750108"
+          }
+        },
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:9e6e01794e2ed8ef",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.umi.appagen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685505277317:android:ec62bf6b92bd528b",
+        "android_client_info": {
+          "package_name": "com.muslimpergi.umroh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDut-Ce5yylo8Pp5MxM6CVQZtFa_eXWoVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685505277317-j2f6a5d4cce6nj5r9phg428r41nqii2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
