@@ -1,4 +1,4 @@
-# app_jamaah_boilerplate
+# umrah_app_for_pilgrims
 
 A new Flutter project.
 
